@@ -23,8 +23,7 @@
   },
   "homepage": "https://github.com/Nordstrom/kinesis-handler#readme",
   "dependencies": {
-    "ajv": "^4.11.2",
-    "aws-sdk": "^2.5.0"
+    "ajv": "^4.11.2"
   },
   "devDependencies": {
     "babel-eslint": "^7.2.1",
