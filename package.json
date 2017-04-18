@@ -1,8 +1,8 @@
 {
   "name": "kinesis-handler",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "Registers schema-method pairs, then calls method when event data matching the schema is detected on the kinesis stream.",
-  "main": "index.js",
+  "main": "lib/kinesisHandler",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Nordstrom/kinesis-handler.git"
@@ -24,8 +24,7 @@
   },
   "homepage": "https://github.com/Nordstrom/kinesis-handler#readme",
   "dependencies": {
-    "ajv": "^4.11.2",
-    "aws-sdk": "^2.5.0"
+    "ajv": "^4.11.2"
   },
   "devDependencies": {
     "chai": "^3.5.0",
