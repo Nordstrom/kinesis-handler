@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/Nordstrom/kinesis-handler#readme",
   "dependencies": {
-    "ajv": "^4.11.2"
+    "ajv": "^6.12.3"
   },
   "devDependencies": {
     "chai": "^3.5.0",
